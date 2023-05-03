@@ -15,6 +15,6 @@ SoapUI, PostgreSQL, Git, Chrome DevTools.
 Как решала: 
 https://matrelena.atlassian.net/wiki/spaces/1/overview?homepageId=196610
 
-##Контактная информация
+## Контактная информация
 
 elenamatrykhina@gmail.com
