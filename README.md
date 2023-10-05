@@ -22,6 +22,10 @@ https://matrelena.atlassian.net/l/cp/MBu100eK
 Как решала:
 https://docs.google.com/document/d/13SMssQ-uQAgVrPEoQFJkhdhVX6S4FFW0MQ0WmtY5dm0/edit
 
+## Дипломный проект
+
+https://matrelena.atlassian.net/wiki/spaces/Dip/overview
+
 ## Контактная информация
 
 elenamatrykhina@gmail.com
